@@ -1,0 +1,2 @@
+# itAkademijaTest
+ITAkademijos git pamoka
